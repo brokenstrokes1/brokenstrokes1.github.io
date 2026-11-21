@@ -4,7 +4,7 @@
 # CHANGE THE NEXT LINE: put your GitHub username, a slash, and your repository name.
 backend:
   name: github
-  repo: brokenstrokes/brokenstrokes1.github.io
+  repo: brokenstrokes1/brokenstrokes1.github.io
   branch: main
 
 # Uploaded pictures are saved into the "image" folder.
